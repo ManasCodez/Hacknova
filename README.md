@@ -50,6 +50,30 @@ EcoPulse makes complex environmental data accessible through engaging 3D visuali
 - Ambient environmental sounds toggle
 - Shader effects for enhanced visuals
 - Presentation mode for hackathon judging
+---
+
+## 🌍💚 VISIT OUR OFFICIAL WEBSITE — **ECO🌱PULSE**
+
+### 🚀 Explore the Future of Sustainable Technology & Data Visualization  
+We’ve built an amazing interactive platform that blends innovation, design, and environmental awareness — a digital ecosystem where data meets purpose.
+
+🌐 **Click below to experience EcoPulse in action!**  
+👉 **[🔗 Visit EcoPulse Website (Live Demo)](https://your-website-link-here.com)** 👈  
+
+#### 💡 What You’ll Discover:
+- Real-time environmental analytics dashboards  
+- Intuitive map-based data visualization  
+- Clean, futuristic UI with responsive design  
+- Smart insights powered by data-driven algorithms  
+
+#### 🛠️ Built With Passion:
+> EcoPulse isn’t just a website — it’s a mission to visualize impact and inspire action.
+
+✨ Don’t forget to ⭐ the repo if you like our work and share your thoughts with us!  
+Let’s make technology sustainable — together 🌱💻
+
+---
+
 
 ## 🚀 Quick Start
 
@@ -320,3 +344,4 @@ This project is licensed under the MIT License - see LICENSE file for details.
 ---
 
 Built with ❤️ for environmental awareness | Hackathon 2024
+
